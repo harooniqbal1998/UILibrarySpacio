@@ -1,6 +1,6 @@
-# AngularTourOfHeroes
+# UI library
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.6.
+Component Library for the project spacio.
 
 ## Development server
 

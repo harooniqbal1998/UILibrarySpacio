@@ -45,3 +45,7 @@ button.danger:hover {
     background-color: #FFFAFA;
     color: #F17879;
 }
+
+button.main {
+    width: 240px;
+}
